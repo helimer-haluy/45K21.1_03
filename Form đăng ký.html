@@ -4,28 +4,119 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Đăng Ký</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <title>Form Đăng Ký Cho Thợ</title>
 </head>
 <body>
-    <h1>Đăng ký cho thợ</h1>
-    <div>
-        <button>Họ tên</button> <input type="text">
-        <button>Tên đăng nhập</button> <input type="text">
-    </div>
-    <div>
-        <button>Địa chỉ liên hệ</button> <input type="text">
-        <button>Mật khẩu</button> <input type="text">
-    </div>
-    <div>
-        <button>Email</button> <input type="text">
-        <button>Số điện thoại</button> <input type="text">
-    </div>
-    <div>
-        <button>CCCD (nếu được sẽ thêm 2 ô xác nhận 2 mặt)</button> <input type="text">
-        <button>Tôi cam kết tất cả thông tin của tôi là đúng</button>
-    </div>
-    <button>Chứng chỉ hành nghề (Chụp hai mặt)</button> <input type="text">
-    <algin right>ĐĂNG KÍ
-        <img src="" alt="">
+   <section class="vh-120 gradient-custom" style="background-color: rgba(248, 248, 250, 0.151);">
+        <div class="container py-5 h-100">
+          <div class="row justify-content-around">
+            <div class="col-12 col-lg-9 col-xl-7">
+              <div class="card shadow-2-strong card-registration" style="border-radius: 15px;" >
+                <div class="card-body p-4 p-md-5">
+                  <h3 class="mb-4 pb-2 pb-md-0 mb-md-5">ĐĂNG KÍ CHO THỢ</h3>
+                  <form>
+      
+                    <div class="row">
+                      <div class="col-md-6 mb-4">
+      
+                        <div class="form-outline">
+                          <input type="text" id="fullname" class="form-control form-control-lg" />
+                          <label class="form-label" for="fullname">Họ tên</label>
+                        </div>
+      
+                      </div>
+                      <div class="col-md-6 mb-4">
+      
+                        <div class="form-outline">
+                          <input type="text" id="username" class="form-control form-control-lg" />
+                          <label class="form-label" for="username">Tên đăng nhập</label>
+                        </div>
+      
+                      </div>
+                    </div>
+      
+                    <div class="row">
+                      <div class="col-md-6 mb-4 d-flex align-items-center">
+      
+                        <div class="form-outline datepicker w-100">
+                          <input
+                            type="text"
+                            class="form-control form-control-lg"
+                            id="address"
+                          />
+                          <label for="address" class="form-label">Địa chỉ liên hệ</label>
+                        </div>                   
+                    </div>
+                    <div class="col-md-6 mb-4 pb-2">
+
+                        <div class="form-outline">
+                            <input type="password" id="form3Example4cg" class="form-control form-control-lg" />
+                            <label class="form-label" for="form3Example4cg">Mật khẩu</label>
+                        </div>
+      
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6 mb-4 pb-2">
+      
+                        <div class="form-outline">
+                          <input type="email" id="emailAddress" class="form-control form-control-lg" />
+                          <label class="form-label" for="emailAddress">Email</label>
+                        </div>
+      
+                      </div>
+                      <div class="col-md-6 mb-4 pb-2">
+      
+                        <div class="form-outline">
+                          <input type="tel" id="phoneNumber" class="form-control form-control-lg" />
+                          <label class="form-label" for="phoneNumber">Số điện thoại</label>
+                        </div>
+      
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-4 pb-2">
+        
+                          <div class="form-outline">
+                            <input type="number" id="number" class="form-control form-control-lg" />
+                            <label class="form-label" for="number">CCCD</label>
+                          </div>
+                          
+        
+                        </div>
+                        <div class="col-md-6 mb-4 pb-2">
+                            <input
+                              class="form-check-input me-2"
+                              type="checkbox"
+                              value=""
+                              id="form2Example3cg"
+                            />
+                            <label class="form-check-label" for="form2Example3g">
+                                Tôi cam kết <a href="#!" class="text-body"><u>tất cả thông tin của tôi là đúng.</u></a>
+                            </label>
+          
+                          </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-4 pb-2">
+            
+                              <div class="form-outline">
+                                <input type="email" id="emailAddress" class="form-control form-control-lg" />
+                                <label class="form-label" for="emailAddress">Chứng chỉ hành nghề (Chụp hai mặt)</label>
+                              </div>
+            
+                            </div>               
+      
+                    <div class="col-md-6 mb-4 pb-2">
+                      <input class="btn btn-primary btn-lg" type="Đăng kí" value="Đăng kí" />
+                    </div>
+                    <div class="col-md-15 pe-6">
+
+                        <input class="form-control form-control-lg" id="formFileLg" type="file" />
+                        <div class="small text-muted mt-2">Chụp chứng chỉ 2 mặt</div>
+        
+                      </div>
+                    </div>
 </body>
 </html>
