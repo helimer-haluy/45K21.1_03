@@ -1,0 +1,6 @@
+Form đăng ký cho thợ
+- Đổi tên cho phù hợp với giao diện ở "Ý tưởng thiết kế giao diện web (v2)"
+	đổi từ "Tên đăng nhập" --> các ô như CCCD, chứng chỉ,...
+- Bổ sung thêm 1 form bao gồm 2 lựa chọn:
+	+ Đăng ký cho thợ
+	+ Đăng ký cho khách

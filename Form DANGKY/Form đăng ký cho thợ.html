@@ -1,197 +1,86 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<!-- Created By CodingLab - www.codinglabweb.com -->
+<html lang="en" dir="ltr">
+  <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-    <title>Form Đăng Ký Cho Thợ</title>
-</head>
+    <!---<title> Responsive Registration Form | CodingLab </title>--->
+    <link rel="stylesheet" href="style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
 <body>
-  <section class="h-100 h-custom" style="background-color: #ffffff;">
-    <div class="container py-5 h-100">
-      <div class="row d-flex justify-content-center align-items-center h-100">
-        <div class="col-lg-8 col-xl-6">
-          <div class="card rounded-3">
-            <div class="card-body p-4 p-md-5">
-              <h4 class="text-uppercase text-center mb-5" style="background-color: #8fa2f6;">ĐĂNG KÍ CHO THỢ</h4>
-  
-              <form class="px-md-2" >
-  
-                <div class="form-outline mb-4">
-                  <label class="form-label" for="fullname" >Họ Tên</label>
-                  <input type="text" id="fullname" class="form-control "style="background-color: #8fa2f6;" />
-                  
-                </div>
-                <div class="form-outline mb-4">
-                  <label class="form-label" for="address" >Địa chỉ liên hệ</label>
-                  <input type="text" id="address" class="form-control "style="background-color: #8fa2f6;" />
-                 
-                </div>
-                 <!-- Quận-->  
-                <div class="row">
-                  <div class="col-md-6 mb-4">
-  
-                    <div class="form-outline ">
-                      <label for="address" class="form-label">Quận</label>
-                      <input type="text" id="address" class="form-control "style="background-color: #8fa2f6;" />
-                      
-                      
-                    </div>
-  
-                  </div> 
-                  <!-- Thành phố-->  
-                  <div class="col-md-6 mb-4">
-
-                    <div class="form-outline">
-                      <label for="address" class="form-label">Thành phố</label>
-                      <input type="text" id="address" class="form-control "style="background-color: #8fa2f6;" />
-                    
-                  </div>
-
-                </div>   
-                  <!-- Email-->  
-                 
-                    <div class="col-md-12 mb-5">
-    
-                      <div class="form-outline ">
-                        <label for="emailAddress" class="form-label">Email</label>
-                        <input type="email" id="emailAddress" class="form-control "style="background-color: #8fa2f6;" />
-                        
-                        
-                      </div>
-    
-                    </div> 
-                     <!-- CCCD-->  
-                     
-                     <div class="col-md-12 mb-4">                 
-                      <label for="phoneNumber" class="form-label">CCCD</label> 
-                      <input type="tel" id="phoneNumber" class="form-control "style="background-color: #8fa2f6;" />
-                        
-                        
-                      </div>
-    
-                    </div> 
-                    <div class="row">
-                      <div class="col-md-6 mb-4">
-      
-                        <div class="form-outline ">
-                        <input class="form-control form-control-lg" style="background-color: #8fa2f6;" id="formFileLg" type="file" />
-                        <div class="small text-muted mt-2">Mặt trước</div>
-        
-                      </div>
-                    </div>
-                    <div class="col-md-6 mb-4">
-
-                      <div class="form-outline">
-                      
-                        <input class="form-control form-control-lg" style="background-color: #8fa2f6;" id="formFileLg" type="file" />
-                        <div class="small text-muted mt-2">Mặt sau</div>
-                    </div>
-  
-                  </div>  
-                    <!-- CHỨNG CHỈ-->
-                    <div class="col-md-12 mb-4">                 
-                      <label for="phoneNumber" class="form-label">Chứng chỉ hành nghề</label> 
-                      <input type="tel" id="phoneNumber" class="form-control "style="background-color: #8fa2f6;" /> 
-                      </div>  
-                    </div> 
-                    <div class="row">
-                      <div class="col-md-6 mb-4">     
-                        <div class="form-outline ">
-                        <input class="form-control form-control-lg" style="background-color: #8fa2f6;" id="formFileLg" type="file" />
-                        <div class="small text-muted mt-2">Mặt trước</div>
-        
-                      </div>
-                    </div>
-                    <div class="col-md-6 mb-4">
-
-                      <div class="form-outline">
-                      
-                        <input class="form-control form-control-lg" style="background-color: #8fa2f6;" id="formFileLg" type="file" />
-                        <div class="small text-muted mt-2">Mặt sau</div>
-                    </div>
-  
-                  </div>  
-                  <!-- Tên đăng nhập-->
-                  <div class="col-md-12 mb-5">
-    
-                    <div class="form-outline ">
-                      <label for="username" class="form-label">Tên đăng nhập</label>
-                      <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" />
-                      
-                      
-                    </div>
-  
-                  </div> 
-                   <!-- Tên đăng nhập-->
-                   <div class="col-md-12 mb-5">
-    
-                    <div class="form-outline ">
-                      <label for="password" class="form-label">Mật khẩu</label>
-                      <input type="password" id="password" class="form-control "style="background-color: #8fa2f6;" />
-                      
-                      
-                    </div>
-  
-                  </div> 
-                   <!-- Mật khẩu-->
-                   <div class="col-md-12 mb-5">
-    
-                    <div class="form-outline ">
-                      <label for="password" class="form-label">Nhập lại mật khẩu</label>
-                      <input type="password" id="password" class="form-control "style="background-color: #8fa2f6;" />
-                      
-                      
-                    </div>
-  
-                  </div> 
-                   <!-- Nhập lại Mật Khẩu-->
-                   <div class="col-md-12 mb-5">
-    
-                    <div class="form-outline ">
-                      <label for="phoneNumber" class="form-label">Số điện thoại</label>
-                      <input type="tel" id="phoneNumber" class="form-control "style="background-color: #8fa2f6;" />
-                      
-                      
-                    </div>
-  
-                  </div> 
-               <!-- Check box-->
-               <div class="col-md-12 mb-5">
-    
-                <div class="form-outline ">
-                  <input
-                  class="form-label"
-                  type="checkbox"
-                  value=""
-                  id="form2Example3cg"
-                />
-                <label class="form-check-label" for="form2Example3g">
-                Tôi cam kết tất cả thông tin của tôi là đúng <a href="#!" class="text-body"><u></u></a>
-                </label>
-                  
-                </div>
-
-              </div> 
-              <!-- Đăng kí-->
-                      <div class="col-md-12 mb-5">
-    
-                <div class="form-outline ">
-                <button type="button" class="btn btn-success btn-block btn-lg gradient-custom-4 text-body">Register</button>
-              </div>
-                                 
-                
-  
-              
-  
-              </form>
-  
-            </div>
+  <div class="container">
+    <div class="title">ĐĂNG KÍ CHO THỢ</div>
+    <div class="content">
+      <form action="#">
+        <div class="user-details">
+          <div class="input-box">
+            <span class="details">Họ tên</span>
+                 <input type="text" id="fullname" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Email</span>
+            <input type="email" id="emailAddress" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Số điện thoại</span>
+            <input type="tel" id="phoneNumber" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Mật khẩu</span>
+            <input type="password" id="password" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Nhập lại mật khẩu</span>
+            <input type="password" id="password" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <span class="details">Tên đăng nhập</span>
+            <input type="text" id="username" class="form-control "style="background-color: #8fa2f6;" placeholder="Enter your name" required/>
           </div>
         </div>
-      </div>
+
+        <div class="button">
+          <input type="submit" value="Đăng ký" >
+        </div>
+      </form>
     </div>
-                      
+  </div>
+
 </body>
 </html>
