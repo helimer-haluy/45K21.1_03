@@ -1,45 +1,45 @@
 --Sửa lỗi tran chủ
-Trang chủ bỏ chữ "FIX 24H" Vì logo đã có "FIX 24H"
-Đẩy --*-- Uy Tín - An Tâm - Gắn Kết lên gần logo
-CÁC DỊCH VỤ ĐƯỢC ĐẶT LỊCH(Cách ra ở đây)NHIỀU NHẤT
-CÁC THỢ XUẤT SẮC
-(Cập nhập liên tục trong vòng 24h) - (Chưa căn giữa cho dòng này)
+DONE --	Trang chủ bỏ chữ "FIX 24H" Vì logo đã có "FIX 24H"
+DONING--Đẩy --*-- Uy Tín - An Tâm - Gắn Kết lên gần logo
+DONE --	CÁC DỊCH VỤ ĐƯỢC ĐẶT LỊCH(Cách ra ở đây)NHIỀU NHẤT
+DOING-- CÁC THỢ XUẤT SẮC
+	(Cập nhập liên tục trong vòng 24h) - (Chưa căn giữa cho dòng này)
 
---Các dịch vụ được đặt nhiều nhất (Bổ sung nội dung)
-Sửa điện
-	Sửa hệ thống điện âm tường, đi lại đường điện, lắp đặt hệ thống đèn, công tắc, rơ le, ổ cắm.
-	Sửa các thiệt bị điện dân dụng, đấu nối các thiết bị điện, khắc phục các sự cố khẩn cấp một cách nhanh chóng, tối ưu
-Sửa nước
-	Sửa máy bơm nước, máy bơm tăng áp, máy bơm ly tâm,.v.v.
-	Sửa đương ống nước âm tường bị rò rỉ, vỡ. Lắp đặt hệ thống đường ống nước trong nhà.
-	Sửa vòi nước bị rò rỉ, vỡ, Lắp đặt thay thế vòi sen, bồn rửa
-Sửa đồ gia dụng
-	Sửa máy giặt, tủ lạnh, bàn là, quạt sưởi, máy nước nóng lạnh, máy phun sương, bình đun siêu tốc, máy pha cà phê máy xay thịt,.v.v.
-	Sửa bình nóng lạnh bị rò điện, bình nóng lạnh không nóng, thay dây chống giật, sục xả bình nóng lạnh.
+DONE -- Các dịch vụ được đặt nhiều nhất (Bổ sung nội dung)
+	Sửa điện
+		Sửa hệ thống điện âm tường, đi lại đường điện, lắp đặt hệ thống đèn, công tắc, rơ le, ổ cắm.
+		Sửa các thiệt bị điện dân dụng, đấu nối các thiết bị điện, khắc phục các sự cố khẩn cấp một cách nhanh chóng, tối ưu
+	Sửa nước
+		Sửa máy bơm nước, máy bơm tăng áp, máy bơm ly tâm,.v.v.
+		Sửa đương ống nước âm tường bị rò rỉ, vỡ. Lắp đặt hệ thống đường ống nước trong nhà.
+		Sửa vòi nước bị rò rỉ, vỡ, Lắp đặt thay thế vòi sen, bồn rửa
+	Sửa đồ gia dụng
+		Sửa máy giặt, tủ lạnh, bàn là, quạt sưởi, máy nước nóng lạnh, máy phun sương, bình đun siêu tốc, máy pha cà phê máy xay thịt,.v.v.
+		Sửa bình nóng lạnh bị rò điện, bình nóng lạnh không nóng, thay dây chống giật, sục xả bình nóng lạnh.
+	
+DOING--Cần chỉnh lại một số lỗi về kích thước ảnh và độ dài của khung --CÁC THỢ XUẤT SẮC - (Cập nhập liên tục trong vòng 24h) -- (Bổ sung nội dung)
+DONE--Dưới hình ảnh của thợ - (Bao gồm:)
+	Tên: Nguyễn Tuấn Quỳnh
+	Sửa máy bơm nước, lắp đặt hệ thống đèn
+	Phản hồi của khách hàng
+	"Thợ sửa đẹp trai, nhiệt tình, sửa điện chập lúc 1h sáng vẫn đến. Tôi sẽ giới thiệu cho tất cả mọi người vì dịch vụ quá tốt"
+	
+DONE--Tên: Hồ Thị Hồng Thắm
+	Sửa máy phun sương, bình đun siêu tốc, máy pha cà phê
+	Phản hồi của khách hàng
+	"Sửa nhanh, dứt điểm, tôi hoàn toàn tin tưởng, đã gọi nhiều lần, rất tốt"
 
---CÁC THỢ XUẤT SẮC - (Cập nhập liên tục trong vòng 24h) -- (Bổ sung nội dung)
-Dưới hình ảnh của thợ - (Bao gồm:)
-Tên: Nguyễn Tuấn Quỳnh
-Sửa máy bơm nước, lắp đặt hệ thống đèn
-Phản hồi của khách hàng
-"Thợ sửa đẹp trai, nhiệt tình, sửa điện chập lúc 1h sáng vẫn đến. Tôi sẽ giới thiệu cho tất cả mọi người vì dịch vụ quá tốt"
+DONE--Tên: Đặng Văn Tỵ
+	Sửa hệ thống âm tường, đi lại đường điện
+	Phản hồi của khách hàng
+	"Thợ tốt. Tôi hoàn toàn an tâm khi sử dụng dịch vụ"
 
-Tên: Hồ Thị Hồng Thắm
-Sửa máy phun sương, bình đun siêu tốc, máy pha cà phê
-Phản hồi của khách hàng
-"Sửa nhanh, dứt điểm, tôi hoàn toàn tin tưởng, đã gọi nhiều lần, rất tốt"
+DONE--Tên: Nguyễn Bá Khánh
+	Sử vòi nước bị rò rỉ, vỡ, lắp đặt thay thế vòi sen
+	Phản hồi của khách hàng
+	"Đúng hẹn, hỗ trợ nhiệt tình khi có sự cố. Chi phí hợp lý, rõ ràng. Rất cảm ơn đã hỗ trợ"
 
-Tên: Đặng Văn Tỵ
-Sửa hệ thống âm tường, đi lại đường điện
-Phản hồi của khách hàng
-"Thợ tốt. Tôi hoàn toàn an tâm khi sử dụng dịch vụ"
-
-Tên: Nguyễn Bá Khánh
-Sử vòi nước bị rò rỉ, vỡ, lắp đặt thay thế vòi sen
-Phản hồi của khách hàng
-"Đúng hẹn, hỗ trợ nhiệt tình khi có sự cố. Chi phí hợp lý, rõ ràng. Rất cảm ơn đã hỗ trợ"
-
-Tên miền "fix24h.biz" (Vì .biz là tên miền dùng cho thương mại trực tuyến)
+	Tên miền "fix24h.biz" (Vì .biz là tên miền dùng cho thương mại trực tuyến)
 
 --Thiên vs Trinh--
 
