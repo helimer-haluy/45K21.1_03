@@ -1,0 +1,17 @@
+* Form đăng ký cho Thợ: 
+- Thiếu tiêu đề: ĐĂNG KÝ CHO THỢ và LOGO
+- Mật khẩu và nhập lại mật khẩu nằm ngay dưới TÊN ĐĂNG NHẬP
+- Trình bày 1 cột từ trên xuống dưới chứ không để song song
+- Ở mục THÀNH PHỐ: sửa lại thành "Enter your name" như ở QUẬN
+- Ở mục CCCD: sửa lại thành "Enter your number"
+- Ở mục CCCD & CHỨNG CHỈ HÀNH NGHỀ: mục chọn tệp cần chỉnh lại nằm chính giữa ô
+
+* Form đăng ký cho khách:
+- Thiếu logo
+- Không cần thiết đối với câu CAM KẾT...
+- Trình bày 1 cột từ trên xuống, không để song song 2 cột
+
+* Form Thợ và Khách
+- Thiếu logo
+- Cần có liên kết khi bấm chọn vào mục đăng ký cho thợ/khách. Cụ thể khi chọn 
+mục đăng ký cho thợ sẽ dẫn đường link đến form đăng ký cho Thợ, tương tự cho khách
