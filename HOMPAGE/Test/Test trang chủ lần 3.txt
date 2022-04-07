@@ -1,0 +1,3 @@
+- Trong phần sửa điện: Thu gần khoảng cách của ảnh và chữ, sửa chữ trong cho dòng content thành 1 dòng và cho chữ to thêm 1 tí 
+- Sửa nước và đồ gia dụng cũng vậy
+- Căn giữa tên các thợ xuất sắc so với hình
