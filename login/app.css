@@ -1,5 +1,5 @@
 body{
-    background-color: #f5f5f5;
+    background-color: #fff;
     background-size: cover;
     background-position-y: -80px;
     font-size: 16px;
@@ -13,13 +13,13 @@ body{
 }
 #form-login{
     max-width: 400px;
-    background:rgba( rgb(126, 46, 254), alpha);
+    background: #8FA2F6;
     padding: 30px 30px 40px;
     
 }
 .form-heading{
     font-size: 25px;
-    color: #f5f5f5;
+    color: #fff;
     text-align: center;
     margin-bottom: 30px;
 }
@@ -39,11 +39,11 @@ body{
     background: transparent;
     border: 0;
     outline: 0;
-    color: #f5f5f5;
+    color: #fff;
     flex-grow: 1;
 }
 .form-input::placeholder{
-    color: #f5f5f5;
+    color: #fff;
 }
 #eye i{
     padding-right: 0;
@@ -51,7 +51,7 @@ body{
 }
 .form-submit{
     background: transparent;
-    border: 1px solid #f5f5f5;
+    border: 1px solid #fff;
     color: #fff;
     width: 100%;
     text-transform: uppercase;
@@ -60,7 +60,7 @@ body{
     margin-top: 30px;
 }
 .form-submit:hover{
-    border: 1px solid #54a0ff;
+    border: 1px solid #fff;
 }
 
 
