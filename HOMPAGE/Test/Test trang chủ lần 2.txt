@@ -1,6 +1,6 @@
 --Sửa lỗi tran chủ
 DONE --	Trang chủ bỏ chữ "FIX 24H" Vì logo đã có "FIX 24H"
-DONING--Đẩy --*-- Uy Tín - An Tâm - Gắn Kết lên gần logo
+DONE--Đẩy --*-- Uy Tín - An Tâm - Gắn Kết lên gần logo
 DONE --	CÁC DỊCH VỤ ĐƯỢC ĐẶT LỊCH(Cách ra ở đây)NHIỀU NHẤT
 DONE -- CÁC THỢ XUẤT SẮC
 	(Cập nhập liên tục trong vòng 24h) - (Chưa căn giữa cho dòng này)
