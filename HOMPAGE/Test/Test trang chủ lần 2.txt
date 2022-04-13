@@ -17,7 +17,7 @@ DONE -- Các dịch vụ được đặt nhiều nhất (Bổ sung nội dung)
 		Sửa máy giặt, tủ lạnh, bàn là, quạt sưởi, máy nước nóng lạnh, máy phun sương, bình đun siêu tốc, máy pha cà phê máy xay thịt,.v.v.
 		Sửa bình nóng lạnh bị rò điện, bình nóng lạnh không nóng, thay dây chống giật, sục xả bình nóng lạnh.
 	
-DONE -- Cần chỉnh lại một số lỗi về kích thước ảnh và độ dài của khung --CÁC THỢ XUẤT SẮC - (Cập nhập liên tục trong vòng 24h) 
+DONE -- CÁC THỢ XUẤT SẮC - (Cập nhập liên tục trong vòng 24h) 
 
 DONE -- (Bổ sung nội dung)
 	Dưới hình ảnh của thợ - (Bao gồm:)
