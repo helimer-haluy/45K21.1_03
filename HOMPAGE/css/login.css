@@ -33,7 +33,7 @@ body {
     font-family: 'Poppins', sans-serif
 }
 
-.input-field {
+.form-group {
     border-radius: 5px;
     padding: 5px;
     display: flex;
