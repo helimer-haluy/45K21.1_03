@@ -600,10 +600,13 @@ progress {
 }
 
 .img-fluid {
-  max-width: 70%;
+  max-width: 100%;
   height: auto;
 }
-
+.img-fluid1 {
+  max-width: 80%;
+  height: auto;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -7377,7 +7380,7 @@ textarea.form-control-lg {
 }
 
 .mb-5 {
-  margin-bottom: 1rem !important;
+  margin-bottom: 2.5rem !important;
 }
 
 .mb-auto {
