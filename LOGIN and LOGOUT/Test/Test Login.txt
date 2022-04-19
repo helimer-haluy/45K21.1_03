@@ -1,0 +1,3 @@
+- In đậm chữ 'ĐĂNG NHẬP'
+- cách ra phần 'Tên hoặc email' và 'Mật khẩu'
+- bỏ tô màu xanh cho phần 'Quên mật khẩu'
