@@ -5,6 +5,9 @@
     margin: 0;
     box-sizing: border-box
 }
+img, svg {
+    vertical-align: middle;
+}
 
 body {
     background-color: #eee;
@@ -23,28 +26,44 @@ body {
 
 .h2 {
     font-family: 'Kaushan Script', cursive;
-    font-size: 10rem;
+    font-size: 3.5rem;
     font-weight: bold;
     color: #8FA2F6;
     font-style: italic
 }
+.text-muted {
+    color: #0e1419!important;
+}
 .h4, h4 {
-        font-size: calc(2.275rem + .4vw);
+    font-size: calc(2rem + .3vw);
+}
+pt-2 {
+    padding-top: .30rem!important;
+}
+h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
 }
 .h4 {
+    line-height: 0.0001;
     font-family: 'Poppins', sans-serif
 }
 
-.form-group {
-    border-radius: 10px;
-    padding: 6px;
+.input-field {
+    border-radius: 5px;
+    padding: 5px;
     display: flex;
     align-items: center;
     cursor: pointer;
-    border: 2px solid #8FA2F6;
+    border: 1px solid #8FA2F6;
     color: #8FA2F6
-    font-size: 30px;
-	margin-top:30px;
+}
+
+.input-field:hover {
+    color: #7b4ca0;
+    border: 1px solid #7b4ca0
 }
 
 input {
@@ -52,10 +71,10 @@ input {
     outline: none;
     box-shadow: none;
     width: 100%;
-    padding: 2px 2px;
+    padding: 0px 2px;
     font-family: 'Poppins', sans-serif
-
 }
+
 .fa-eye-slash.btn {
     border: none;
     outline: none;
@@ -65,7 +84,7 @@ input {
 a {
     text-decoration: none;
     color: #8FA2F6;
-    font-weight: 100
+    font-weight: 700
 }
 
 a:hover {
@@ -75,7 +94,7 @@ a:hover {
 
 .option {
     position: relative;
-    padding-left: 50px;
+    padding-left: 30px;
     cursor: pointer
 }
 
@@ -92,14 +111,17 @@ a:hover {
     position: absolute;
     top: 3px;
     left: 0;
-    height: 13px;
-    width: 13px;
+    height: 20px;
+    width: 20px;
     background-color: #fff;
-    border: 5px solid #ddd;
+    border: 1px solid #ddd;
     border-radius: 50%;
     cursor: pointer
 }
 
+.option input:checked~.checkmark:after {
+    display: block
+}
 
 .option .checkmark:after {
     content: "";
@@ -117,8 +139,8 @@ a:hover {
 
 .option input[type="radio"]:checked~.checkmark {
     background: #fff;
-    transition: 500ms ease-in-out 0s;
-    border: 2px solid #8FA2F6
+    transition: 300ms ease-in-out 0s;
+    border: 1px solid #8FA2F6
 }
 
 .option input[type="radio"]:checked~.checkmark:after {
@@ -126,7 +148,7 @@ a:hover {
 }
 
 .btn.btn-block {
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: #8FA2F6;
     color: #fff
 }
@@ -137,7 +159,7 @@ a:hover {
 
 @media(max-width: 575px) {
     .wrapper {
-        margin: 20px
+        margin: 10px
     }
 }
 
