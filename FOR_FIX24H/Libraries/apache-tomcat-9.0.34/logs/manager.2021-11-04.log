@@ -1,0 +1,375 @@
+04-Nov-2021 23:31:10.770 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+04-Nov-2021 23:31:10.771 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+04-Nov-2021 23:31:12.065 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:31:12.076 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:31:12.305 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/MTB'
+04-Nov-2021 23:31:12.882 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Hi/AppData/Local/Temp/context2305876526915454887.xml'
+04-Nov-2021 23:31:34.721 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:31:34.730 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:32:54.241 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:34:46.870 INFO [http-nio-8080-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:34:46.884 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:34:51.167 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:00.496 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:00.504 INFO [http-nio-8080-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:00.611 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:35:13.385 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:26.629 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:26.648 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:35:32.237 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:32.244 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:35:32.347 INFO [http-nio-8080-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:36:10.580 INFO [http-nio-8080-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:36:10.602 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:36:10.626 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:36:13.156 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:36:28.192 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:36:28.208 INFO [http-nio-8080-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:36:30.351 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:36:30.363 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:37:14.662 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:37:14.680 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:38:13.350 INFO [http-nio-8080-exec-38] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:38:13.364 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:38:20.344 INFO [http-nio-8080-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:38:20.350 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:38:20.450 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:38:20.467 INFO [http-nio-8080-exec-43] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:38:34.092 INFO [http-nio-8080-exec-44] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:38:34.100 INFO [http-nio-8080-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:39:14.690 INFO [http-nio-8080-exec-51] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:39:21.151 INFO [http-nio-8080-exec-49] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:39:21.158 INFO [http-nio-8080-exec-51] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:39:30.216 INFO [http-nio-8080-exec-44] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:39:30.223 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:40:33.411 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:40:58.153 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:40:58.173 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:40:58.193 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:40:58.797 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:40:58.812 INFO [http-nio-8080-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:40:59.397 INFO [http-nio-8080-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:40:59.412 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:19.537 INFO [http-nio-8080-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:19.554 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:22.609 INFO [http-nio-8080-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:22.622 INFO [http-nio-8080-exec-62] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:26.855 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:26.862 INFO [http-nio-8080-exec-61] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:36.362 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:36.373 INFO [http-nio-8080-exec-59] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:36.855 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:36.865 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:37.283 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:37.293 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:41:51.964 INFO [http-nio-8080-exec-67] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:41:51.988 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:42:03.600 INFO [http-nio-8080-exec-67] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:42:03.607 INFO [http-nio-8080-exec-59] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:42:08.420 INFO [http-nio-8080-exec-59] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:42:08.423 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:42:08.463 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:42:08.471 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:42:15.889 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:42:15.892 INFO [http-nio-8080-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:43:28.569 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:43:28.579 INFO [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:43:28.588 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:43:28.631 SEVERE [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: Error starting [/MTB]
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MTB]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1415)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:377)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:666)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:53)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: The servlets named [concertControl] and [concert] are both mapped to the url-pattern [/concertControl] which is not permitted
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMappingDecoded(WebXml.java:343)
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMapping(WebXml.java:336)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationWebServlet(ContextConfig.java:2465)
+		at org.apache.catalina.startup.ContextConfig.processClass(ContextConfig.java:2141)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2130)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2022)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2016)
+		at org.apache.catalina.startup.ContextConfig.processClasses(ContextConfig.java:1233)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1142)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:774)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:301)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5056)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 28 more
+04-Nov-2021 23:43:34.841 INFO [http-nio-8080-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:43:34.844 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:43:34.895 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:43:34.905 INFO [http-nio-8080-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:43:34.932 SEVERE [http-nio-8080-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: Error starting [/MTB]
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MTB]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1415)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:377)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:666)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:53)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: The servlets named [concertControl] and [concert] are both mapped to the url-pattern [/concertControl] which is not permitted
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMappingDecoded(WebXml.java:343)
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMapping(WebXml.java:336)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationWebServlet(ContextConfig.java:2465)
+		at org.apache.catalina.startup.ContextConfig.processClass(ContextConfig.java:2141)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2130)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2022)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2016)
+		at org.apache.catalina.startup.ContextConfig.processClasses(ContextConfig.java:1233)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1142)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:774)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:301)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5056)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 28 more
+04-Nov-2021 23:43:46.150 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:43:46.153 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:43:46.200 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:43:46.207 INFO [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:43:46.226 SEVERE [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: Error starting [/MTB]
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MTB]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1415)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:377)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:666)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:53)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: The servlets named [concertControl] and [concert] are both mapped to the url-pattern [/concertControl] which is not permitted
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMappingDecoded(WebXml.java:343)
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMapping(WebXml.java:336)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationWebServlet(ContextConfig.java:2465)
+		at org.apache.catalina.startup.ContextConfig.processClass(ContextConfig.java:2141)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2130)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2022)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2016)
+		at org.apache.catalina.startup.ContextConfig.processClasses(ContextConfig.java:1233)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1142)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:774)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:301)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5056)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 28 more
+04-Nov-2021 23:44:08.116 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:44:08.123 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:44:08.144 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/MTB'
+04-Nov-2021 23:44:08.667 INFO [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Hi/AppData/Local/Temp/context335867275703875860.xml'
+04-Nov-2021 23:44:09.002 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:44:16.494 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:44:16.497 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:44:16.534 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:44:16.540 INFO [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:45:24.848 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:45:24.856 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/MTB'
+04-Nov-2021 23:45:40.494 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:45:40.498 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:45:40.510 INFO [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Hi/AppData/Local/Temp/context6218796994871456556.xml'
+04-Nov-2021 23:45:48.907 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:45:48.915 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:45:48.922 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:45:59.822 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:45:59.825 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:45:59.890 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/MTB'
+04-Nov-2021 23:46:00.422 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Hi/AppData/Local/Temp/context1274559886113792335.xml'
+04-Nov-2021 23:46:32.855 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:32.864 INFO [http-nio-8080-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:46:37.030 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:37.034 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:37.088 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:46:37.089 SEVERE [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: Error reloading [/MTB]
+	java.lang.IllegalStateException: Context with name [/MTB] has not yet been started
+		at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3746)
+		at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1121)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:365)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:666)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:53)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Nov-2021 23:46:41.686 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:41.689 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:41.736 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/MTB'
+04-Nov-2021 23:46:41.736 SEVERE [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: Error reloading [/MTB]
+	java.lang.IllegalStateException: Context with name [/MTB] has not yet been started
+		at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3746)
+		at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:1121)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:365)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:666)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:53)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Nov-2021 23:46:49.833 INFO [http-nio-8080-exec-99] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:49.845 INFO [http-nio-8080-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:46:49.852 INFO [http-nio-8080-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:46:55.271 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:55.274 INFO [http-nio-8080-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:46:55.325 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/MTB'
+04-Nov-2021 23:46:55.332 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/MTB'
+04-Nov-2021 23:47:01.079 INFO [http-nio-8080-exec-93] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:47:01.082 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:48:21.770 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+04-Nov-2021 23:48:21.770 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+04-Nov-2021 23:48:22.274 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:48:22.280 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:48:39.443 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:48:43.540 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:48:43.544 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:49:26.993 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:56:11.660 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:56:11.672 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:56:11.685 INFO [http-nio-8080-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Hi/AppData/Local/Temp/context8591042027689243351.xml'
+04-Nov-2021 23:56:12.102 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SWP'
+04-Nov-2021 23:56:37.680 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:56:37.685 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:56:48.994 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:56:48.998 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:57:05.896 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:57:05.900 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:57:43.702 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:57:43.711 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:58:13.989 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:58:13.996 INFO [http-nio-8080-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:58:18.335 INFO [http-nio-8080-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:58:18.343 INFO [http-nio-8080-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:58:28.276 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:58:28.280 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:58:28.320 INFO [http-nio-8080-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:58:42.272 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:58:42.280 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:09.164 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:09.174 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:09.607 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:09.618 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:10.055 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:10.064 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:27.055 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:27.066 INFO [http-nio-8080-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:28.959 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:28.971 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:33.355 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:37.537 INFO [http-nio-8080-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:37.545 INFO [http-nio-8080-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:37.954 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:37.963 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
+04-Nov-2021 23:59:51.956 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Nov-2021 23:59:51.964 INFO [http-nio-8080-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SWP'
