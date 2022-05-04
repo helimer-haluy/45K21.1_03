@@ -1,0 +1,189 @@
+16-Sep-2021 22:11:37.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.34
+16-Sep-2021 22:11:37.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2020 12:02:52 UTC
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.34.0
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34
+16-Sep-2021 22:11:37.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34
+16-Sep-2021 22:11:37.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\logging.properties
+16-Sep-2021 22:11:37.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Sep-2021 22:11:37.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|LAPTOP-ART8FMS6
+16-Sep-2021 22:11:37.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Sep-2021 22:11:37.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\temp
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+16-Sep-2021 22:11:37.983 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+16-Sep-2021 22:11:38.002 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+16-Sep-2021 22:11:38.326 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Sep-2021 22:11:38.477 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [764] milliseconds
+16-Sep-2021 22:11:38.536 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Sep-2021 22:11:38.536 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.34]
+16-Sep-2021 22:11:38.558 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\Calculator.xml]
+16-Sep-2021 22:11:38.589 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Calculator] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\Calculator.xml] has been ignored
+16-Sep-2021 22:11:38.949 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\Calculator.xml] has finished in [391] ms
+16-Sep-2021 22:11:38.949 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\CourseWeb.xml]
+16-Sep-2021 22:11:38.950 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/CourseWeb] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\CourseWeb.xml] has been ignored
+16-Sep-2021 22:11:39.471 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:39.510 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\CourseWeb.xml] has finished in [561] ms
+16-Sep-2021 22:11:39.511 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\Day3_Lab.xml]
+16-Sep-2021 22:11:39.517 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/Day3_Lab] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\Day3_Lab.xml] has been ignored
+16-Sep-2021 22:11:39.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\Day3_Lab.xml] has finished in [136] ms
+16-Sep-2021 22:11:39.648 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\loginWebProject.xml]
+16-Sep-2021 22:11:39.651 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/loginWebProject] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\loginWebProject.xml] has been ignored
+16-Sep-2021 22:11:39.955 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:39.959 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\loginWebProject.xml] has finished in [310] ms
+16-Sep-2021 22:11:39.959 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\MVC.xml]
+16-Sep-2021 22:11:39.961 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MVC] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\MVC.xml] has been ignored
+16-Sep-2021 22:11:39.967 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\MVC.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:631)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1831)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:526)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:425)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:936)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3fc9504b]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4805)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4940)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:717)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\My Study\FPT\Summer 2021\PRJ301\MVC\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:752)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:709)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+16-Sep-2021 22:11:39.990 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\MVC.xml] has finished in [31] ms
+16-Sep-2021 22:11:39.991 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\PE_DE150256_SE1502.xml]
+16-Sep-2021 22:11:39.992 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/PE_DE150256_SE1502] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\PE_DE150256_SE1502.xml] has been ignored
+16-Sep-2021 22:11:40.780 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:40.835 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\PE_DE150256_SE1502.xml] has finished in [844] ms
+16-Sep-2021 22:11:40.835 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\PRJ301_Workshop1.xml]
+16-Sep-2021 22:11:40.837 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/PRJ301_Workshop1] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\PRJ301_Workshop1.xml] has been ignored
+16-Sep-2021 22:11:41.137 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:41.157 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\PRJ301_Workshop1.xml] has finished in [322] ms
+16-Sep-2021 22:11:41.157 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\ProjectDay3_EL.xml]
+16-Sep-2021 22:11:41.159 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ProjectDay3_EL] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\ProjectDay3_EL.xml] has been ignored
+16-Sep-2021 22:11:41.439 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:41.456 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\ProjectDay3_EL.xml] has finished in [299] ms
+16-Sep-2021 22:11:41.456 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\sanpham.xml]
+16-Sep-2021 22:11:41.458 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/sanpham] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\sanpham.xml] has been ignored
+16-Sep-2021 22:11:41.979 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:42.038 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\sanpham.xml] has finished in [582] ms
+16-Sep-2021 22:11:42.039 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\SE1502_JSP.xml]
+16-Sep-2021 22:11:42.040 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SE1502_JSP] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\SE1502_JSP.xml] has been ignored
+16-Sep-2021 22:11:42.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\SE1502_JSP.xml] has finished in [58] ms
+16-Sep-2021 22:11:42.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\SE1502_TestDB_Lab4.xml]
+16-Sep-2021 22:11:42.101 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SE1502_TestDB_Lab4] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\SE1502_TestDB_Lab4.xml] has been ignored
+16-Sep-2021 22:11:42.606 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16-Sep-2021 22:11:42.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\SE1502_TestDB_Lab4.xml] has finished in [521] ms
+16-Sep-2021 22:11:42.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\workshop2_Se1502.xml]
+16-Sep-2021 22:11:42.620 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/workshop2_Se1502] in deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\workshop2_Se1502.xml] has been ignored
+16-Sep-2021 22:11:42.626 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\workshop2_Se1502.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:720)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:631)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1831)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:112)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:526)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:425)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:936)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@5cc9d3d0]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4805)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4940)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:717)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Hi\Desktop\workshop2_Se1502_TranNguyenPhungTri_DE150048\workshop2_Se1502\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:752)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:709)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+16-Sep-2021 22:11:42.635 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\conf\Catalina\localhost\workshop2_Se1502.xml] has finished in [15] ms
+16-Sep-2021 22:11:42.636 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\docs]
+16-Sep-2021 22:11:42.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\docs] has finished in [49] ms
+16-Sep-2021 22:11:42.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\examples]
+16-Sep-2021 22:11:43.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\examples] has finished in [669] ms
+16-Sep-2021 22:11:43.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\host-manager]
+16-Sep-2021 22:11:43.387 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\host-manager] has finished in [32] ms
+16-Sep-2021 22:11:43.387 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\manager]
+16-Sep-2021 22:11:43.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\manager] has finished in [44] ms
+16-Sep-2021 22:11:43.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\ROOT]
+16-Sep-2021 22:11:43.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\My Study\FPT\Summer 2021\PRJ301\apache-tomcat-9.0.34\webapps\ROOT] has finished in [27] ms
+16-Sep-2021 22:11:43.464 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Sep-2021 22:11:43.480 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5,003] milliseconds

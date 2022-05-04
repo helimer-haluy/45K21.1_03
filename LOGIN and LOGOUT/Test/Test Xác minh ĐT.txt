@@ -1,2 +1,0 @@
-- 'NHẬP LẠI BẢO MẬT' thay bằng 'NHẬP MÃ BẢO MẬT'
-- Vui lòng kiểm tra điện thoại để xem tin nhắn văn bản có mã. Mã của bạn có 6 ký tự.

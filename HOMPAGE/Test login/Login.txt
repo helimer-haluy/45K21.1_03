@@ -1,2 +1,0 @@
-- 'Quên mật khẩu' không bỏ trong khung xanh, chữ nhỏ hơn xí 
-- 'Đăng nhập' chữ in đậm

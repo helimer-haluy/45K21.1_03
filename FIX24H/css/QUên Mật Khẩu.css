@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins&display=swap');
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+body {
+    background-color: #eee;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to top, #fff 10%,#8FA2F6 90%) no-repeat
+}
+
+.wrapper {
+    max-width: 500px;
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 30px 40px;
+    box-shadow: 20px 20px 80px #8FA2F6
+}
+.text-muted {
+    color: #030303!important;
+}
+.h2 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 10rem;
+    font-weight: bold;
+    color: #8FA2F6;
+    font-style: italic
+}
+.h4, h4 {
+        font-size: calc(2.275rem + .4vw);
+}
+.h4 {
+    font-family: 'Poppins', sans-serif
+}
+.form-group {
+    border: 2px solid #8FA2F6;
+    color: #8FA2F6 font-size: 30px;
+    margin-top: 20px;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 5px solid #8FA2F6;
+    color: #8FA2F6 font-size: 30px;
+    margin-top: 30px;
+}
+
+.option label.text-muted {
+    display: block;
+    cursor: pointer
+}
+
+.checkmark {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    height: 13px;
+    width: 13px;
+    background-color: #fff;
+    border: 5px solid #ddd;
+    border-radius: 50%;
+    cursor: pointer
+}
+.form-control {
+    font-weight: 400;
+    color: #212529;
+    background-color: #fff;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.form-group {
+    border-radius: 10px;
+    align-items: center;
+    cursor: pointer;
+    border: 2px solid #8FA2F6;
+    color: #8FA2F6 font-size: 30px;
+    margin-top: 10px;
+}
+
+.btn.btn-block {
+    border-radius: 10px;
+    background-color: #8FA2F6;
+    color: #fff
+}
+
+.btn.btn-block:hover {
+    background-color: #55268be0
+}
