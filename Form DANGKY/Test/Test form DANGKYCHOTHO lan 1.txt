@@ -1,6 +1,0 @@
-Test giao diện form đăng ký cho thợ
-- Cần đưa tất cả cụm từ như Họ tên, tên đăng nhập,... lên ngang hàng cùng với ô trống điền thông tin
-- Bổ sung "chọn tệp"ở ô trống chứng chỉ hành nghề (2 mặt trước sau như ở CCCD)
-- Bổ sung thêm ô ĐĂNG KÝ, QUẬN, THÀNH PHỐ, CAM KẾT
-- Chưa có màu sắc cho form 
-- Chưa có logo
